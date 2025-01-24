@@ -1,0 +1,148 @@
+
+body{
+
+   margin:0px;
+   padding: 0px;
+}
+.button{
+   margin-left: 200px ;
+   height: 20px;
+
+
+}
+
+.dm{
+    margin: 0px;
+    background-color: rgb(11, 143, 171);
+    height:100px;
+   width:100%;
+    display:flex;
+    justify-content: space-between;
+}
+ #d1{
+    height: 100px;
+    width: 100px;
+    border: 1px solid transparent;
+    margin-left: 10px;
+ }
+
+ #d1:hover{
+    border-color: white;
+ }
+.navbar1{
+   margin-left: 300px;
+}
+ .navbar{
+    border: 1px solid transparent;
+    display: inline-block;
+    margin-top: 40px;
+    
+    color:white;
+    font-size: larger;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+.navbar:hover{
+    border-color: white;
+}
+
+ i{
+    color: white;
+    padding-left: 60px;
+ }
+
+button{
+    display: flex;
+    margin-top: 40px;
+    background-color: white;
+    color:rgb(87, 156, 172);
+    border-color: rgb(0, 0, 0);
+    border-width:0.8px;
+    border-radius: 40px;
+ }
+
+#content{
+    height: 20%;
+}
+
+.doctor{
+    background-color: rgb(11, 143, 171); ;
+    height: 350px;
+    width: 300px;
+    display: inline-block;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    margin-left: 100px;
+    margin-right: 50px;
+    border-radius: 25px;
+ }
+
+.doctor:hover{
+transform: scale(1.1);
+}
+
+ .card{
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+ }
+
+ p{
+    font-family:cursive ;
+    color: whitesmoke;
+    font-size: medium;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+ }
+
+.details{
+    display: inline-block;
+    background-color: aliceblue;
+    color:dimgray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium ;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+
+ footer{
+    background-color:rgb(11, 143, 171);
+    height: auto;
+    width: 100vw;
+ }
+
+ .footer{
+   color: azure ;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ #i1,#i2,#i3{
+color: azure;
+ }
+ #i1{
+   padding:0%;
+   padding-right: 60px;
+ }
+
+ #i2{
+padding: 0px;
+ }
+
+ #i3{
+   padding: 0%;
+   padding-left: 60px;
+ }
+
+.icons{
+   text-align: center;
+   margin: 0%;
+
+}
